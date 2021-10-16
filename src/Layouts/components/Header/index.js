@@ -92,7 +92,6 @@ const useStyles = makeStyles((theme) => {
       alignItems: 'center',
     },
     avatar: {
-      background: 'red',
       margin: '0 20px',
     },
   };
